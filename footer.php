@@ -1,0 +1,1 @@
+</main><footer>© <?= date('Y') ?> Food Fast · Local food delivery demo project</footer></body></html>
